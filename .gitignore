@@ -5,6 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+config.azure.tf
+
 # Crash log files
 crash.log
 
