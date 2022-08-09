@@ -4,3 +4,4 @@ This repo contains terraform scripts to create a Azure Health Data Service with 
 Access is provided via a private endpoint to a private virtual network.
 Additionally a V-Net injected Databricks Workspace and a Virtual Windows Machine are deployed which can access the Azure Health Data Service from a network perspective
 
+![Resources Image](/resources/healthdataaerg.png)
